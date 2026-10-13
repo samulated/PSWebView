@@ -1,0 +1,7 @@
+Logs/
+*.WebView2/
+EBWebView/
+Lib/Microsoft.Web.WebView2.Core.dll
+Lib/Microsoft.Web.WebView2.Wpf.dll
+runtimes/win-x64/native/*
+runtimes/win-x86/native/*
